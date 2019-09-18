@@ -1,0 +1,19 @@
+.App {
+  border-radius: 50%;
+  background: linear-gradient(pink, lightblue);
+  border-color: #92a8d1;
+  padding:15%;
+  margin-left:25%;
+  width: 12em; 
+}
+.input-time{
+  /* background-color:blue; */
+  width:100%
+  
+}
+.buttons{
+  margin-left: 30%;
+  
+}
+
+
